@@ -1,8 +1,8 @@
 # 🤖 Chatbot AI - Proyek Sekolah
 
 **Nama:** Hariz Ahayu  
-**Kelas:** [ISI KELASMU DI SINI]  
-**Sekolah:** [ISI NAMA SEKOLAHMU]  
+**Kelas:** [ipa 3]  
+**Sekolah:** [xxx]  
 
 ## 🎯 Deskripsi
 Aplikasi chatbot AI interaktif untuk tugas sekolah menggunakan Streamlit dan OpenRouter API.
